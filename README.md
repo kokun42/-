@@ -7,5 +7,8 @@
 ## どうやってインストール？
 GUIcalculationInstaller.exeを実行してください。
 
+## どうやって実行？
+GUIcalculationのディレクトリ直下のGUIcalculation.exeを実行してください
+
 ## どうやってアンインストール？
 GUIcalculationのディレクトリ直下にUnins000.exeを実行してください
